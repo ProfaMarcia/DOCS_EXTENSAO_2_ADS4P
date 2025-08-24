@@ -12,11 +12,11 @@ Cada etapa deve ser devidamente registrada, entregue e validada.
 
 ### ✅ Documentos obrigatórios  
 
-1. **PEX-MDL-64 - Projeto de Extensão II**  
+1. **PEX-MDL-54 - Projeto de Extensão II**  
    - Contém: plano, objetivos e metodologia do projeto.  
    - **Requer aprovação docente** → **Nota AV1**.  
 
-2. **PEX-MDL-66 - Relatório de Extensão II**  
+2. **PEX-MDL-56 - Relatório de Extensão II**  
    - Compilação dos resultados, aprendizados e impacto do projeto.  
    - **Requer aprovação docente** → **Nota AV2**.  
 
@@ -34,7 +34,7 @@ Cada etapa deve ser devidamente registrada, entregue e validada.
 
 ## 📖 Documento de Referência  
 
-- **PEX-MDL-65 - PROJETO GERAL DE EXTENSÃO II - (Disciplina de Extensão - Docente) - Marcia Silva.pdf**  
+- **PEX-MDL-55 - PROJETO GERAL DE EXTENSÃO II - (Disciplina de Extensão - Docente) - Marcia Silva.pdf**  
   - Este é o **projeto da Prof.ª Márcia Silva**.  
   - Deve ser utilizado como **modelo de referência** para a elaboração dos projetos dos discentes.  
 
